@@ -22,4 +22,4 @@ try:
         time.sleep(1)
         
 except KeyboardInterrupt:
-    print("\nPrograma interrompido.")
+    print("\nO programa foi interrompido.")
