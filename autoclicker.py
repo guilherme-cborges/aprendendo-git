@@ -18,8 +18,8 @@ try:
         # Clica com o botão esquerdo do mouse
         pyautogui.click()
         
-        # Aguarda 1 segundo
-        time.sleep(1)
+        # Aguarda 2 segundos
+        time.sleep(2)
         
 except KeyboardInterrupt:
     print("\nO programa foi interrompido.")
